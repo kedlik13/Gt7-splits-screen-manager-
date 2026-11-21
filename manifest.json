@@ -1,10 +1,13 @@
 {
-  "name": "GT7 Race Night Manager",
+  "name": "GT7 Race Night Championship Manager",
   "short_name": "GT7 Race Night",
+  "description": "Offline GT7 race night and championship manager. Data stays on this device.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#090d12",
-  "theme_color": "#090d12",
+  "background_color": "#080d16",
+  "theme_color": "#080d16",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
